@@ -1,0 +1,41 @@
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\bin\Debug\ÖRNEK.exe.config
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\bin\Debug\ÖRNEK.exe
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\bin\Debug\ÖRNEK.pdb
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Debug\ÖRNEK.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Debug\ÖRNEK.Form1.resources
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Debug\ÖRNEK.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Debug\ÖRNEK.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Debug\ÖRNEK.exe
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Debug\ÖRNEK.pdb
+C:\Users\ogrenci\Desktop\MENUSTRIP,FONTDIALOG,COLORDİALOG\ÖRNEK\bin\Debug\ÖRNEK.exe.config
+C:\Users\ogrenci\Desktop\MENUSTRIP,FONTDIALOG,COLORDİALOG\ÖRNEK\obj\Debug\ÖRNEK.exe
+C:\Users\ogrenci\Desktop\MENUSTRIP,FONTDIALOG,COLORDİALOG\ÖRNEK\obj\Debug\ÖRNEK.pdb
+C:\Users\ogrenci\Desktop\MENUSTRIP,FONTDIALOG,COLORDİALOG\ÖRNEK\bin\Debug\ÖRNEK.exe
+C:\Users\ogrenci\Desktop\MENUSTRIP,FONTDIALOG,COLORDİALOG\ÖRNEK\bin\Debug\ÖRNEK.pdb
+C:\Users\ogrenci\Desktop\MENUSTRIP,FONTDIALOG,COLORDİALOG\ÖRNEK\obj\Debug\ÖRNEK.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\MENUSTRIP,FONTDIALOG,COLORDİALOG\ÖRNEK\obj\Debug\ÖRNEK.Form1.resources
+C:\Users\ogrenci\Desktop\MENUSTRIP,FONTDIALOG,COLORDİALOG\ÖRNEK\obj\Debug\ÖRNEK.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\MENUSTRIP,FONTDIALOG,COLORDİALOG\ÖRNEK\obj\Debug\ÖRNEK.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\NOT DEFTERİ YAPIMI\ÖRNEK\bin\Debug\ÖRNEK.exe.config
+C:\Users\ogrenci\Desktop\NOT DEFTERİ YAPIMI\ÖRNEK\obj\Debug\ÖRNEK.exe
+C:\Users\ogrenci\Desktop\NOT DEFTERİ YAPIMI\ÖRNEK\obj\Debug\ÖRNEK.pdb
+C:\Users\ogrenci\Desktop\NOT DEFTERİ YAPIMI\ÖRNEK\bin\Debug\ÖRNEK.exe
+C:\Users\ogrenci\Desktop\NOT DEFTERİ YAPIMI\ÖRNEK\bin\Debug\ÖRNEK.pdb
+C:\Users\ogrenci\Desktop\NOT DEFTERİ YAPIMI\ÖRNEK\obj\Debug\ÖRNEK.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\NOT DEFTERİ YAPIMI\ÖRNEK\obj\Debug\ÖRNEK.Form1.resources
+C:\Users\ogrenci\Desktop\NOT DEFTERİ YAPIMI\ÖRNEK\obj\Debug\ÖRNEK.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\NOT DEFTERİ YAPIMI\ÖRNEK\obj\Debug\ÖRNEK.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\NOT DEFTERİ YAPIMI\ÖRNEK\obj\Debug\ÖRNEK.kullanıcıyardım.resources
+D:\11.SINIF\NESNE TABANLI PROGRAMLAMA\NOT DEFTERİ\ÖRNEK\bin\Debug\ÖRNEK.exe.config
+D:\11.SINIF\NESNE TABANLI PROGRAMLAMA\NOT DEFTERİ\ÖRNEK\obj\Debug\ÖRNEK.exe
+D:\11.SINIF\NESNE TABANLI PROGRAMLAMA\NOT DEFTERİ\ÖRNEK\obj\Debug\ÖRNEK.pdb
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\NOT DEFTERİ\ÖRNEK\bin\Debug\ÖRNEK.exe.config
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\NOT DEFTERİ\ÖRNEK\obj\Debug\ÖRNEK.exe
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\NOT DEFTERİ\ÖRNEK\obj\Debug\ÖRNEK.pdb
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\NOT DEFTERİ\ÖRNEK\bin\Debug\ÖRNEK.exe
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\NOT DEFTERİ\ÖRNEK\bin\Debug\ÖRNEK.pdb
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\NOT DEFTERİ\ÖRNEK\obj\Debug\ÖRNEK.csprojResolveAssemblyReference.cache
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\NOT DEFTERİ\ÖRNEK\obj\Debug\ÖRNEK.Form1.resources
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\NOT DEFTERİ\ÖRNEK\obj\Debug\ÖRNEK.kullanıcıyardım.resources
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\NOT DEFTERİ\ÖRNEK\obj\Debug\ÖRNEK.Properties.Resources.resources
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\NOT DEFTERİ\ÖRNEK\obj\Debug\ÖRNEK.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\Users\Veysel\Desktop\UYGULAMA_7\UYGULAMA_7\bin\Debug\UYGULAMA_7.exe.config
+C:\Users\Veysel\Desktop\UYGULAMA_7\UYGULAMA_7\bin\Debug\UYGULAMA_7.exe
+C:\Users\Veysel\Desktop\UYGULAMA_7\UYGULAMA_7\bin\Debug\UYGULAMA_7.pdb
+C:\Users\Veysel\Desktop\UYGULAMA_7\UYGULAMA_7\obj\Debug\UYGULAMA_7.Form1.resources
+C:\Users\Veysel\Desktop\UYGULAMA_7\UYGULAMA_7\obj\Debug\UYGULAMA_7.Properties.Resources.resources
+C:\Users\Veysel\Desktop\UYGULAMA_7\UYGULAMA_7\obj\Debug\UYGULAMA_7.csproj.GenerateResource.Cache
+C:\Users\Veysel\Desktop\UYGULAMA_7\UYGULAMA_7\obj\Debug\UYGULAMA_7.exe
+C:\Users\Veysel\Desktop\UYGULAMA_7\UYGULAMA_7\obj\Debug\UYGULAMA_7.pdb
+D:\11.SINIF\NESNE TABANLI PROGRAMLAMA\21.12.2015 ÖDEV (9 PROGRAM)\UYGULAMA_7\UYGULAMA_7\bin\Debug\UYGULAMA_7.exe.config
+D:\11.SINIF\NESNE TABANLI PROGRAMLAMA\21.12.2015 ÖDEV (9 PROGRAM)\UYGULAMA_7\UYGULAMA_7\obj\Debug\UYGULAMA_7.exe
+D:\11.SINIF\NESNE TABANLI PROGRAMLAMA\21.12.2015 ÖDEV (9 PROGRAM)\UYGULAMA_7\UYGULAMA_7\obj\Debug\UYGULAMA_7.pdb

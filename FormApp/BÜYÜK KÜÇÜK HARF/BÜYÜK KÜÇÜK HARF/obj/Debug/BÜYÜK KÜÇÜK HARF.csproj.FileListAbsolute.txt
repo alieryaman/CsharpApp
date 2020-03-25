@@ -1,0 +1,12 @@
+C:\Users\Veysel\Desktop\BÜYÜK KÜÇÜK HARF\BÜYÜK KÜÇÜK HARF\bin\Debug\BÜYÜK KÜÇÜK HARF.exe.config
+C:\Users\Veysel\Desktop\BÜYÜK KÜÇÜK HARF\BÜYÜK KÜÇÜK HARF\bin\Debug\BÜYÜK KÜÇÜK HARF.exe
+C:\Users\Veysel\Desktop\BÜYÜK KÜÇÜK HARF\BÜYÜK KÜÇÜK HARF\bin\Debug\BÜYÜK KÜÇÜK HARF.pdb
+C:\Users\Veysel\Desktop\BÜYÜK KÜÇÜK HARF\BÜYÜK KÜÇÜK HARF\obj\Debug\BÜYÜK KÜÇÜK HARF.csprojResolveAssemblyReference.cache
+C:\Users\Veysel\Desktop\BÜYÜK KÜÇÜK HARF\BÜYÜK KÜÇÜK HARF\obj\Debug\BÜYÜK_KÜÇÜK_HARF.Form1.resources
+C:\Users\Veysel\Desktop\BÜYÜK KÜÇÜK HARF\BÜYÜK KÜÇÜK HARF\obj\Debug\BÜYÜK_KÜÇÜK_HARF.Properties.Resources.resources
+C:\Users\Veysel\Desktop\BÜYÜK KÜÇÜK HARF\BÜYÜK KÜÇÜK HARF\obj\Debug\BÜYÜK KÜÇÜK HARF.csproj.GenerateResource.Cache
+C:\Users\Veysel\Desktop\BÜYÜK KÜÇÜK HARF\BÜYÜK KÜÇÜK HARF\obj\Debug\BÜYÜK KÜÇÜK HARF.exe
+C:\Users\Veysel\Desktop\BÜYÜK KÜÇÜK HARF\BÜYÜK KÜÇÜK HARF\obj\Debug\BÜYÜK KÜÇÜK HARF.pdb
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\BÜYÜK KÜÇÜK HARF\BÜYÜK KÜÇÜK HARF\bin\Debug\BÜYÜK KÜÇÜK HARF.exe.config
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\BÜYÜK KÜÇÜK HARF\BÜYÜK KÜÇÜK HARF\obj\Debug\BÜYÜK KÜÇÜK HARF.exe
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\BÜYÜK KÜÇÜK HARF\BÜYÜK KÜÇÜK HARF\obj\Debug\BÜYÜK KÜÇÜK HARF.pdb

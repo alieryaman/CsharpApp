@@ -1,0 +1,27 @@
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA2\UYGULAMA2\bin\Debug\UYGULAMA2.exe.config
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA2\UYGULAMA2\bin\Debug\UYGULAMA2.exe
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA2\UYGULAMA2\bin\Debug\UYGULAMA2.pdb
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA2\UYGULAMA2\obj\Debug\UYGULAMA2.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA2\UYGULAMA2\obj\Debug\UYGULAMA2.Form1.resources
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA2\UYGULAMA2\obj\Debug\UYGULAMA2.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA2\UYGULAMA2\obj\Debug\UYGULAMA2.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA2\UYGULAMA2\obj\Debug\UYGULAMA2.exe
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA2\UYGULAMA2\obj\Debug\UYGULAMA2.pdb
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\COMBOBOX KARE KÜP ALMA\UYGULAMA2\bin\Debug\UYGULAMA2.exe.config
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\COMBOBOX KARE KÜP ALMA\UYGULAMA2\obj\Debug\UYGULAMA2.exe
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\COMBOBOX KARE KÜP ALMA\UYGULAMA2\obj\Debug\UYGULAMA2.pdb
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\COMBOBOX KARE KÜP ALMA\UYGULAMA2\bin\Debug\UYGULAMA2.exe
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\COMBOBOX KARE KÜP ALMA\UYGULAMA2\bin\Debug\UYGULAMA2.pdb
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\COMBOBOX KARE KÜP ALMA\UYGULAMA2\obj\Debug\UYGULAMA2.csprojResolveAssemblyReference.cache
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\COMBOBOX KARE KÜP ALMA\UYGULAMA2\obj\Debug\UYGULAMA2.Form1.resources
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\COMBOBOX KARE KÜP ALMA\UYGULAMA2\obj\Debug\UYGULAMA2.Properties.Resources.resources
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\COMBOBOX KARE KÜP ALMA\UYGULAMA2\obj\Debug\UYGULAMA2.csproj.GenerateResource.Cache
+C:\Users\Veysel\Desktop\COMBOBOX KARE KÜP ALMA\UYGULAMA2\bin\Debug\UYGULAMA2.exe.config
+C:\Users\Veysel\Desktop\COMBOBOX KARE KÜP ALMA\UYGULAMA2\obj\Debug\UYGULAMA2.exe
+C:\Users\Veysel\Desktop\COMBOBOX KARE KÜP ALMA\UYGULAMA2\obj\Debug\UYGULAMA2.pdb
+C:\Users\Veysel\Desktop\COMBOBOX KARE KÜP ALMA\UYGULAMA2\bin\Debug\UYGULAMA2.exe
+C:\Users\Veysel\Desktop\COMBOBOX KARE KÜP ALMA\UYGULAMA2\bin\Debug\UYGULAMA2.pdb
+C:\Users\Veysel\Desktop\COMBOBOX KARE KÜP ALMA\UYGULAMA2\obj\Debug\UYGULAMA2.csprojResolveAssemblyReference.cache
+C:\Users\Veysel\Desktop\COMBOBOX KARE KÜP ALMA\UYGULAMA2\obj\Debug\UYGULAMA2.Form1.resources
+C:\Users\Veysel\Desktop\COMBOBOX KARE KÜP ALMA\UYGULAMA2\obj\Debug\UYGULAMA2.Properties.Resources.resources
+C:\Users\Veysel\Desktop\COMBOBOX KARE KÜP ALMA\UYGULAMA2\obj\Debug\UYGULAMA2.csproj.GenerateResource.Cache

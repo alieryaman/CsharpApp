@@ -1,0 +1,8 @@
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\bin\Release\ÖRNEK.exe.config
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\bin\Release\ÖRNEK.exe
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\bin\Release\ÖRNEK.pdb
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Release\ÖRNEK.Form1.resources
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Release\ÖRNEK.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Release\ÖRNEK.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Release\ÖRNEK.exe
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Release\ÖRNEK.pdb

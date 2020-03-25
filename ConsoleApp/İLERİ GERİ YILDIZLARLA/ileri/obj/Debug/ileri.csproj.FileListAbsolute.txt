@@ -1,0 +1,18 @@
+C:\Users\ogrenci\Desktop\ileri\ileri\bin\Debug\ileri.exe.config
+C:\Users\ogrenci\Desktop\ileri\ileri\bin\Debug\ileri.exe
+C:\Users\ogrenci\Desktop\ileri\ileri\bin\Debug\ileri.pdb
+C:\Users\ogrenci\Desktop\ileri\ileri\obj\Debug\ileri.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ileri\ileri\obj\Debug\ileri.exe
+C:\Users\ogrenci\Desktop\ileri\ileri\obj\Debug\ileri.pdb
+C:\Users\ogrenci\Desktop\İLERİ GERİ YILDIZLARLA\ileri\bin\Debug\ileri.exe.config
+C:\Users\ogrenci\Desktop\İLERİ GERİ YILDIZLARLA\ileri\obj\Debug\ileri.exe
+C:\Users\ogrenci\Desktop\İLERİ GERİ YILDIZLARLA\ileri\obj\Debug\ileri.pdb
+C:\Users\ogrenci\Desktop\İLERİ GERİ YILDIZLARLA\ileri\bin\Debug\ileri.exe
+C:\Users\ogrenci\Desktop\İLERİ GERİ YILDIZLARLA\ileri\bin\Debug\ileri.pdb
+C:\Users\ogrenci\Desktop\İLERİ GERİ YILDIZLARLA\ileri\obj\Debug\ileri.csprojResolveAssemblyReference.cache
+E:\PROGLAMLAMA TEMELLERİ UYGULAMALAR\CONSOLE UYGULAMALARI\İLERİ GERİ YILDIZLARLA\ileri\bin\Debug\ileri.exe.config
+E:\PROGLAMLAMA TEMELLERİ UYGULAMALAR\CONSOLE UYGULAMALARI\İLERİ GERİ YILDIZLARLA\ileri\obj\Debug\ileri.exe
+E:\PROGLAMLAMA TEMELLERİ UYGULAMALAR\CONSOLE UYGULAMALARI\İLERİ GERİ YILDIZLARLA\ileri\obj\Debug\ileri.pdb
+E:\PROGLAMLAMA TEMELLERİ UYGULAMALAR\CONSOLE UYGULAMALARI\İLERİ GERİ YILDIZLARLA\ileri\bin\Debug\ileri.exe
+E:\PROGLAMLAMA TEMELLERİ UYGULAMALAR\CONSOLE UYGULAMALARI\İLERİ GERİ YILDIZLARLA\ileri\bin\Debug\ileri.pdb
+E:\PROGLAMLAMA TEMELLERİ UYGULAMALAR\CONSOLE UYGULAMALARI\İLERİ GERİ YILDIZLARLA\ileri\obj\Debug\ileri.csprojResolveAssemblyReference.cache

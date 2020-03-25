@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\C_Sharp_Form_21_Puzzle_Oyunu\C_Sharp_Puzzle_Oyunu\bin\Release\WindowsFormsApplication3.exe
+C:\Users\ogrenci\Desktop\C_Sharp_Form_21_Puzzle_Oyunu\C_Sharp_Puzzle_Oyunu\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\ogrenci\Desktop\C_Sharp_Form_21_Puzzle_Oyunu\C_Sharp_Puzzle_Oyunu\obj\Release\C_Sharp_Puzzle_Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\C_Sharp_Form_21_Puzzle_Oyunu\C_Sharp_Puzzle_Oyunu\obj\Release\C_Sharp_Puzzle_Game.MAinForm.resources
+C:\Users\ogrenci\Desktop\C_Sharp_Form_21_Puzzle_Oyunu\C_Sharp_Puzzle_Oyunu\obj\Release\C_Sharp_Puzzle_Game.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\C_Sharp_Form_21_Puzzle_Oyunu\C_Sharp_Puzzle_Oyunu\obj\Release\C_Sharp_Puzzle_Oyunu.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\C_Sharp_Form_21_Puzzle_Oyunu\C_Sharp_Puzzle_Oyunu\obj\Release\WindowsFormsApplication3.exe
+C:\Users\ogrenci\Desktop\C_Sharp_Form_21_Puzzle_Oyunu\C_Sharp_Puzzle_Oyunu\obj\Release\WindowsFormsApplication3.pdb
+H:\11.SINIF\NESNE TABANLI PROGRAMLAMA\PUZZLE OYUNU\C_Sharp_Puzzle_Oyunu\obj\Release\WindowsFormsApplication3.exe
+H:\11.SINIF\NESNE TABANLI PROGRAMLAMA\PUZZLE OYUNU\C_Sharp_Puzzle_Oyunu\obj\Release\WindowsFormsApplication3.pdb

@@ -1,0 +1,28 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Veysel Kartalmış" Height="400" Width="500" Background="#FFE86F0A" Foreground="#FFDA2C2C">
+    <Grid>
+        <Button Content="OKUT" HorizontalAlignment="Left" Margin="159,166,0,0" VerticalAlignment="Top" Width="158" Height="59" FontSize="36" Click="Button_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.336"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.431"/>
+                    <GradientStop Color="#FFE82727" Offset="0.931"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="SİL " HorizontalAlignment="Left" Margin="159,256,0,0" VerticalAlignment="Top" Width="158" Height="59" FontSize="36" Click="Button_Click_1">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.321"/>
+                    <GradientStop Color="#FFFF3737" Offset="0.859"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="txt_mesaj" HorizontalAlignment="Left" Height="48" Margin="159,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" FontSize="20" FontWeight="Bold"/>
+    </Grid>
+</Window>

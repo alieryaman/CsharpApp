@@ -1,0 +1,9 @@
+C:\Users\ogrenci\Desktop\ARİTMETİK İSİM YAZDIRMA\ARİTMETİK İSİM YAZDIRMA\bin\Debug\ARİTMETİK İSİM YAZDIRMA.exe.config
+C:\Users\ogrenci\Desktop\ARİTMETİK İSİM YAZDIRMA\ARİTMETİK İSİM YAZDIRMA\bin\Debug\ARİTMETİK İSİM YAZDIRMA.exe
+C:\Users\ogrenci\Desktop\ARİTMETİK İSİM YAZDIRMA\ARİTMETİK İSİM YAZDIRMA\bin\Debug\ARİTMETİK İSİM YAZDIRMA.pdb
+C:\Users\ogrenci\Desktop\ARİTMETİK İSİM YAZDIRMA\ARİTMETİK İSİM YAZDIRMA\obj\Debug\ARİTMETİK İSİM YAZDIRMA.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ARİTMETİK İSİM YAZDIRMA\ARİTMETİK İSİM YAZDIRMA\obj\Debug\ARİTMETİK_İSİM_YAZDIRMA.Form1.resources
+C:\Users\ogrenci\Desktop\ARİTMETİK İSİM YAZDIRMA\ARİTMETİK İSİM YAZDIRMA\obj\Debug\ARİTMETİK_İSİM_YAZDIRMA.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ARİTMETİK İSİM YAZDIRMA\ARİTMETİK İSİM YAZDIRMA\obj\Debug\ARİTMETİK İSİM YAZDIRMA.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\ARİTMETİK İSİM YAZDIRMA\ARİTMETİK İSİM YAZDIRMA\obj\Debug\ARİTMETİK İSİM YAZDIRMA.exe
+C:\Users\ogrenci\Desktop\ARİTMETİK İSİM YAZDIRMA\ARİTMETİK İSİM YAZDIRMA\obj\Debug\ARİTMETİK İSİM YAZDIRMA.pdb

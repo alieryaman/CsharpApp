@@ -1,0 +1,21 @@
+C:\Users\Veysel\Desktop\UYGULAMA_6\UYGULAMA_6\bin\Debug\UYGULAMA_6.exe.config
+C:\Users\Veysel\Desktop\UYGULAMA_6\UYGULAMA_6\bin\Debug\UYGULAMA_6.exe
+C:\Users\Veysel\Desktop\UYGULAMA_6\UYGULAMA_6\bin\Debug\UYGULAMA_6.pdb
+C:\Users\Veysel\Desktop\UYGULAMA_6\UYGULAMA_6\obj\Debug\UYGULAMA_6.csprojResolveAssemblyReference.cache
+C:\Users\Veysel\Desktop\UYGULAMA_6\UYGULAMA_6\obj\Debug\UYGULAMA_6.Form1.resources
+C:\Users\Veysel\Desktop\UYGULAMA_6\UYGULAMA_6\obj\Debug\UYGULAMA_6.Properties.Resources.resources
+C:\Users\Veysel\Desktop\UYGULAMA_6\UYGULAMA_6\obj\Debug\UYGULAMA_6.csproj.GenerateResource.Cache
+C:\Users\Veysel\Desktop\UYGULAMA_6\UYGULAMA_6\obj\Debug\UYGULAMA_6.exe
+C:\Users\Veysel\Desktop\UYGULAMA_6\UYGULAMA_6\obj\Debug\UYGULAMA_6.pdb
+C:\Users\Veysel\Desktop\21.12.2015 ÖDEV\UYGULAMA_6\UYGULAMA_6\bin\Debug\UYGULAMA_6.exe.config
+C:\Users\Veysel\Desktop\21.12.2015 ÖDEV\UYGULAMA_6\UYGULAMA_6\obj\Debug\UYGULAMA_6.exe
+C:\Users\Veysel\Desktop\21.12.2015 ÖDEV\UYGULAMA_6\UYGULAMA_6\obj\Debug\UYGULAMA_6.pdb
+C:\Users\Veysel\Desktop\21.12.2015 ÖDEV\UYGULAMA_6\UYGULAMA_6\bin\Debug\UYGULAMA_6.exe
+C:\Users\Veysel\Desktop\21.12.2015 ÖDEV\UYGULAMA_6\UYGULAMA_6\bin\Debug\UYGULAMA_6.pdb
+C:\Users\Veysel\Desktop\21.12.2015 ÖDEV\UYGULAMA_6\UYGULAMA_6\obj\Debug\UYGULAMA_6.csprojResolveAssemblyReference.cache
+C:\Users\Veysel\Desktop\21.12.2015 ÖDEV\UYGULAMA_6\UYGULAMA_6\obj\Debug\UYGULAMA_6.Form1.resources
+C:\Users\Veysel\Desktop\21.12.2015 ÖDEV\UYGULAMA_6\UYGULAMA_6\obj\Debug\UYGULAMA_6.Properties.Resources.resources
+C:\Users\Veysel\Desktop\21.12.2015 ÖDEV\UYGULAMA_6\UYGULAMA_6\obj\Debug\UYGULAMA_6.csproj.GenerateResource.Cache
+D:\11.SINIF\NESNE TABANLI PROGRAMLAMA\21.12.2015 ÖDEV (9 PROGRAM)\UYGULAMA_6\UYGULAMA_6\bin\Debug\UYGULAMA_6.exe.config
+D:\11.SINIF\NESNE TABANLI PROGRAMLAMA\21.12.2015 ÖDEV (9 PROGRAM)\UYGULAMA_6\UYGULAMA_6\obj\Debug\UYGULAMA_6.exe
+D:\11.SINIF\NESNE TABANLI PROGRAMLAMA\21.12.2015 ÖDEV (9 PROGRAM)\UYGULAMA_6\UYGULAMA_6\obj\Debug\UYGULAMA_6.pdb

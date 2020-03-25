@@ -1,0 +1,9 @@
+C:\Users\Veysel\Desktop\UYGULAMA_1\UYGULAMA_1\bin\Debug\UYGULAMA_1.exe.config
+C:\Users\Veysel\Desktop\UYGULAMA_1\UYGULAMA_1\bin\Debug\UYGULAMA_1.exe
+C:\Users\Veysel\Desktop\UYGULAMA_1\UYGULAMA_1\bin\Debug\UYGULAMA_1.pdb
+C:\Users\Veysel\Desktop\UYGULAMA_1\UYGULAMA_1\obj\Debug\UYGULAMA_1.csprojResolveAssemblyReference.cache
+C:\Users\Veysel\Desktop\UYGULAMA_1\UYGULAMA_1\obj\Debug\UYGULAMA_1.Form1.resources
+C:\Users\Veysel\Desktop\UYGULAMA_1\UYGULAMA_1\obj\Debug\UYGULAMA_1.Properties.Resources.resources
+C:\Users\Veysel\Desktop\UYGULAMA_1\UYGULAMA_1\obj\Debug\UYGULAMA_1.csproj.GenerateResource.Cache
+C:\Users\Veysel\Desktop\UYGULAMA_1\UYGULAMA_1\obj\Debug\UYGULAMA_1.exe
+C:\Users\Veysel\Desktop\UYGULAMA_1\UYGULAMA_1\obj\Debug\UYGULAMA_1.pdb

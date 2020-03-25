@@ -1,0 +1,6 @@
+C:\Users\ogrenci\Desktop\MARKET PROGRAMI\MARKET PROGRAMI\bin\Debug\MARKET PROGRAMI.exe.config
+C:\Users\ogrenci\Desktop\MARKET PROGRAMI\MARKET PROGRAMI\bin\Debug\MARKET PROGRAMI.exe
+C:\Users\ogrenci\Desktop\MARKET PROGRAMI\MARKET PROGRAMI\bin\Debug\MARKET PROGRAMI.pdb
+C:\Users\ogrenci\Desktop\MARKET PROGRAMI\MARKET PROGRAMI\obj\Debug\MARKET PROGRAMI.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\MARKET PROGRAMI\MARKET PROGRAMI\obj\Debug\MARKET PROGRAMI.exe
+C:\Users\ogrenci\Desktop\MARKET PROGRAMI\MARKET PROGRAMI\obj\Debug\MARKET PROGRAMI.pdb

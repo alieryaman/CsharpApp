@@ -1,0 +1,15 @@
+C:\Users\ogrenci\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ogrenci\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ogrenci\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ogrenci\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\ogrenci\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\SAYIYI YAZIYA DÖNÜŞTÜRME\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\SAYIYI YAZIYA DÖNÜŞTÜRME\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\SAYIYI YAZIYA DÖNÜŞTÜRME\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Veysel\Desktop\SAYIYI YAZIYA DÖNÜŞTÜRME\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Veysel\Desktop\SAYIYI YAZIYA DÖNÜŞTÜRME\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Veysel\Desktop\SAYIYI YAZIYA DÖNÜŞTÜRME\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Veysel\Desktop\SAYIYI YAZIYA DÖNÜŞTÜRME\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Veysel\Desktop\SAYIYI YAZIYA DÖNÜŞTÜRME\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Veysel\Desktop\SAYIYI YAZIYA DÖNÜŞTÜRME\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb

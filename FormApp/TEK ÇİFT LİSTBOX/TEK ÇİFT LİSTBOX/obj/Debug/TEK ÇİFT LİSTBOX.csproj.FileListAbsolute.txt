@@ -1,0 +1,9 @@
+C:\Users\ogrenci\Desktop\TEK ÇİFT LİSTBOX\TEK ÇİFT LİSTBOX\bin\Debug\TEK ÇİFT LİSTBOX.exe.config
+C:\Users\ogrenci\Desktop\TEK ÇİFT LİSTBOX\TEK ÇİFT LİSTBOX\bin\Debug\TEK ÇİFT LİSTBOX.exe
+C:\Users\ogrenci\Desktop\TEK ÇİFT LİSTBOX\TEK ÇİFT LİSTBOX\bin\Debug\TEK ÇİFT LİSTBOX.pdb
+C:\Users\ogrenci\Desktop\TEK ÇİFT LİSTBOX\TEK ÇİFT LİSTBOX\obj\Debug\TEK ÇİFT LİSTBOX.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\TEK ÇİFT LİSTBOX\TEK ÇİFT LİSTBOX\obj\Debug\TEK_ÇİFT_LİSTBOX.Form1.resources
+C:\Users\ogrenci\Desktop\TEK ÇİFT LİSTBOX\TEK ÇİFT LİSTBOX\obj\Debug\TEK_ÇİFT_LİSTBOX.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\TEK ÇİFT LİSTBOX\TEK ÇİFT LİSTBOX\obj\Debug\TEK ÇİFT LİSTBOX.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\TEK ÇİFT LİSTBOX\TEK ÇİFT LİSTBOX\obj\Debug\TEK ÇİFT LİSTBOX.exe
+C:\Users\ogrenci\Desktop\TEK ÇİFT LİSTBOX\TEK ÇİFT LİSTBOX\obj\Debug\TEK ÇİFT LİSTBOX.pdb

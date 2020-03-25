@@ -1,0 +1,15 @@
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE ŞARKI LİSTESİ\DİZİLERLE ŞARKI LİSTESİ\bin\Debug\DİZİLERLE ŞARKI LİSTESİ.exe.config
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE ŞARKI LİSTESİ\DİZİLERLE ŞARKI LİSTESİ\bin\Debug\DİZİLERLE ŞARKI LİSTESİ.exe
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE ŞARKI LİSTESİ\DİZİLERLE ŞARKI LİSTESİ\bin\Debug\DİZİLERLE ŞARKI LİSTESİ.pdb
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE ŞARKI LİSTESİ\DİZİLERLE ŞARKI LİSTESİ\obj\Debug\DİZİLERLE ŞARKI LİSTESİ.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE ŞARKI LİSTESİ\DİZİLERLE ŞARKI LİSTESİ\obj\Debug\DİZİLERLE_ŞARKI_LİSTESİ.Form1.resources
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE ŞARKI LİSTESİ\DİZİLERLE ŞARKI LİSTESİ\obj\Debug\DİZİLERLE_ŞARKI_LİSTESİ.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE ŞARKI LİSTESİ\DİZİLERLE ŞARKI LİSTESİ\obj\Debug\DİZİLERLE ŞARKI LİSTESİ.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE ŞARKI LİSTESİ\DİZİLERLE ŞARKI LİSTESİ\obj\Debug\DİZİLERLE ŞARKI LİSTESİ.exe
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE ŞARKI LİSTESİ\DİZİLERLE ŞARKI LİSTESİ\obj\Debug\DİZİLERLE ŞARKI LİSTESİ.pdb
+C:\Users\ogrenci\Desktop\DİZİLERLE ŞARKI LİSTESİ\DİZİLERLE ŞARKI LİSTESİ\bin\Debug\DİZİLERLE ŞARKI LİSTESİ.exe.config
+C:\Users\ogrenci\Desktop\DİZİLERLE ŞARKI LİSTESİ\DİZİLERLE ŞARKI LİSTESİ\obj\Debug\DİZİLERLE ŞARKI LİSTESİ.exe
+C:\Users\ogrenci\Desktop\DİZİLERLE ŞARKI LİSTESİ\DİZİLERLE ŞARKI LİSTESİ\obj\Debug\DİZİLERLE ŞARKI LİSTESİ.pdb
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\ARRAY LIST ŞARKI LİSTESİ\DİZİLERLE ŞARKI LİSTESİ\bin\Debug\DİZİLERLE ŞARKI LİSTESİ.exe.config
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\ARRAY LIST ŞARKI LİSTESİ\DİZİLERLE ŞARKI LİSTESİ\obj\Debug\DİZİLERLE ŞARKI LİSTESİ.exe
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\ARRAY LIST ŞARKI LİSTESİ\DİZİLERLE ŞARKI LİSTESİ\obj\Debug\DİZİLERLE ŞARKI LİSTESİ.pdb

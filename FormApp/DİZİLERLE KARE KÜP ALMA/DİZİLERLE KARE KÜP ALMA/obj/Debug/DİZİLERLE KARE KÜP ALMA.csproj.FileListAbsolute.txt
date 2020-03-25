@@ -1,0 +1,9 @@
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE KARE KÜP ALMA\DİZİLERLE KARE KÜP ALMA\bin\Debug\DİZİLERLE KARE KÜP ALMA.exe.config
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE KARE KÜP ALMA\DİZİLERLE KARE KÜP ALMA\obj\Debug\DİZİLERLE KARE KÜP ALMA.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE KARE KÜP ALMA\DİZİLERLE KARE KÜP ALMA\obj\Debug\DİZİLERLE_KARE_KÜP_ALMA.Form1.resources
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE KARE KÜP ALMA\DİZİLERLE KARE KÜP ALMA\obj\Debug\DİZİLERLE_KARE_KÜP_ALMA.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE KARE KÜP ALMA\DİZİLERLE KARE KÜP ALMA\obj\Debug\DİZİLERLE KARE KÜP ALMA.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE KARE KÜP ALMA\DİZİLERLE KARE KÜP ALMA\bin\Debug\DİZİLERLE KARE KÜP ALMA.exe
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE KARE KÜP ALMA\DİZİLERLE KARE KÜP ALMA\bin\Debug\DİZİLERLE KARE KÜP ALMA.pdb
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE KARE KÜP ALMA\DİZİLERLE KARE KÜP ALMA\obj\Debug\DİZİLERLE KARE KÜP ALMA.exe
+c:\users\ogrenci\documents\visual studio 2012\Projects\DİZİLERLE KARE KÜP ALMA\DİZİLERLE KARE KÜP ALMA\obj\Debug\DİZİLERLE KARE KÜP ALMA.pdb

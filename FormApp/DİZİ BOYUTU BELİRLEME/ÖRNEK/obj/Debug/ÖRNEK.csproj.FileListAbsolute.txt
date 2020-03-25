@@ -1,0 +1,9 @@
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\bin\Debug\ÖRNEK.exe.config
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\bin\Debug\ÖRNEK.exe
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\bin\Debug\ÖRNEK.pdb
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Debug\ÖRNEK.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Debug\ÖRNEK.Form1.resources
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Debug\ÖRNEK.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Debug\ÖRNEK.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Debug\ÖRNEK.exe
+C:\Users\ogrenci\Desktop\ÖRNEK\ÖRNEK\obj\Debug\ÖRNEK.pdb

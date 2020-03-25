@@ -1,0 +1,15 @@
+C:\Users\ogrenci\Desktop\DİZİLERLE ÖĞRENCİ İŞİ\DİZİLERLE ÖĞRENCİ İŞİ\bin\Debug\DİZİLERLE ÖĞRENCİ İŞİ.exe.config
+C:\Users\ogrenci\Desktop\DİZİLERLE ÖĞRENCİ İŞİ\DİZİLERLE ÖĞRENCİ İŞİ\obj\Debug\DİZİLERLE ÖĞRENCİ İŞİ.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\DİZİLERLE ÖĞRENCİ İŞİ\DİZİLERLE ÖĞRENCİ İŞİ\obj\Debug\DİZİLERLE_ÖĞRENCİ_İŞİ.Form1.resources
+C:\Users\ogrenci\Desktop\DİZİLERLE ÖĞRENCİ İŞİ\DİZİLERLE ÖĞRENCİ İŞİ\obj\Debug\DİZİLERLE_ÖĞRENCİ_İŞİ.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\DİZİLERLE ÖĞRENCİ İŞİ\DİZİLERLE ÖĞRENCİ İŞİ\obj\Debug\DİZİLERLE ÖĞRENCİ İŞİ.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\DİZİLERLE ÖĞRENCİ İŞİ\DİZİLERLE ÖĞRENCİ İŞİ\bin\Debug\DİZİLERLE ÖĞRENCİ İŞİ.exe
+C:\Users\ogrenci\Desktop\DİZİLERLE ÖĞRENCİ İŞİ\DİZİLERLE ÖĞRENCİ İŞİ\bin\Debug\DİZİLERLE ÖĞRENCİ İŞİ.pdb
+C:\Users\ogrenci\Desktop\DİZİLERLE ÖĞRENCİ İŞİ\DİZİLERLE ÖĞRENCİ İŞİ\obj\Debug\DİZİLERLE ÖĞRENCİ İŞİ.exe
+C:\Users\ogrenci\Desktop\DİZİLERLE ÖĞRENCİ İŞİ\DİZİLERLE ÖĞRENCİ İŞİ\obj\Debug\DİZİLERLE ÖĞRENCİ İŞİ.pdb
+D:\11.SINIF\NESNE TABANLI PROGRAMLAMA\DİZİLERLE ÖĞRENCİ İŞİ\DİZİLERLE ÖĞRENCİ İŞİ\bin\Debug\DİZİLERLE ÖĞRENCİ İŞİ.exe.config
+D:\11.SINIF\NESNE TABANLI PROGRAMLAMA\DİZİLERLE ÖĞRENCİ İŞİ\DİZİLERLE ÖĞRENCİ İŞİ\obj\Debug\DİZİLERLE ÖĞRENCİ İŞİ.exe
+D:\11.SINIF\NESNE TABANLI PROGRAMLAMA\DİZİLERLE ÖĞRENCİ İŞİ\DİZİLERLE ÖĞRENCİ İŞİ\obj\Debug\DİZİLERLE ÖĞRENCİ İŞİ.pdb
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\DİZİLERLE ÖĞRENCİ İŞİ\DİZİLERLE ÖĞRENCİ İŞİ\bin\Debug\DİZİLERLE ÖĞRENCİ İŞİ.exe.config
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\DİZİLERLE ÖĞRENCİ İŞİ\DİZİLERLE ÖĞRENCİ İŞİ\obj\Debug\DİZİLERLE ÖĞRENCİ İŞİ.exe
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\DİZİLERLE ÖĞRENCİ İŞİ\DİZİLERLE ÖĞRENCİ İŞİ\obj\Debug\DİZİLERLE ÖĞRENCİ İŞİ.pdb

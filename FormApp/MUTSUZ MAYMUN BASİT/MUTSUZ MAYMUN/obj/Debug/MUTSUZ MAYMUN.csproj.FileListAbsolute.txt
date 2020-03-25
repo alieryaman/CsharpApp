@@ -1,0 +1,9 @@
+C:\Users\ogrenci\Desktop\MUTSUZ MAYMUN\MUTSUZ MAYMUN\bin\Debug\MUTSUZ MAYMUN.exe.config
+C:\Users\ogrenci\Desktop\MUTSUZ MAYMUN\MUTSUZ MAYMUN\bin\Debug\MUTSUZ MAYMUN.exe
+C:\Users\ogrenci\Desktop\MUTSUZ MAYMUN\MUTSUZ MAYMUN\bin\Debug\MUTSUZ MAYMUN.pdb
+C:\Users\ogrenci\Desktop\MUTSUZ MAYMUN\MUTSUZ MAYMUN\obj\Debug\MUTSUZ MAYMUN.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\MUTSUZ MAYMUN\MUTSUZ MAYMUN\obj\Debug\MUTSUZ_MAYMUN.Form1.resources
+C:\Users\ogrenci\Desktop\MUTSUZ MAYMUN\MUTSUZ MAYMUN\obj\Debug\MUTSUZ_MAYMUN.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\MUTSUZ MAYMUN\MUTSUZ MAYMUN\obj\Debug\MUTSUZ MAYMUN.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\MUTSUZ MAYMUN\MUTSUZ MAYMUN\obj\Debug\MUTSUZ MAYMUN.exe
+C:\Users\ogrenci\Desktop\MUTSUZ MAYMUN\MUTSUZ MAYMUN\obj\Debug\MUTSUZ MAYMUN.pdb

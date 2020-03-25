@@ -1,0 +1,27 @@
+C:\Users\Veysel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Veysel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Veysel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Veysel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Veysel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Veysel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Veysel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Veysel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Veysel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Veysel\Desktop\PİZZA SİPARİŞ\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Veysel\Desktop\PİZZA SİPARİŞ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Veysel\Desktop\PİZZA SİPARİŞ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Veysel\Desktop\PİZZA SİPARİŞ\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Veysel\Desktop\PİZZA SİPARİŞ\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Veysel\Desktop\PİZZA SİPARİŞ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Veysel\Desktop\PİZZA SİPARİŞ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Veysel\Desktop\PİZZA SİPARİŞ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Veysel\Desktop\PİZZA SİPARİŞ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\PİZZA SİPARİŞ\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\PİZZA SİPARİŞ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\PİZZA SİPARİŞ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\PİZZA SİPARİŞ\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\PİZZA SİPARİŞ\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\PİZZA SİPARİŞ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\PİZZA SİPARİŞ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\PİZZA SİPARİŞ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\PİZZA SİPARİŞ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

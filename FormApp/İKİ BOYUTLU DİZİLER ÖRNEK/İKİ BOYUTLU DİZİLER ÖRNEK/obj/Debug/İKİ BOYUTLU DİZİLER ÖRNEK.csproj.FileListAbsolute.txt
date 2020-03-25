@@ -1,0 +1,8 @@
+c:\users\ogrenci\documents\visual studio 2012\Projects\İKİ BOYUTLU DİZİLER ÖRNEK\İKİ BOYUTLU DİZİLER ÖRNEK\bin\Debug\İKİ BOYUTLU DİZİLER ÖRNEK.exe.config
+c:\users\ogrenci\documents\visual studio 2012\Projects\İKİ BOYUTLU DİZİLER ÖRNEK\İKİ BOYUTLU DİZİLER ÖRNEK\bin\Debug\İKİ BOYUTLU DİZİLER ÖRNEK.exe
+c:\users\ogrenci\documents\visual studio 2012\Projects\İKİ BOYUTLU DİZİLER ÖRNEK\İKİ BOYUTLU DİZİLER ÖRNEK\bin\Debug\İKİ BOYUTLU DİZİLER ÖRNEK.pdb
+c:\users\ogrenci\documents\visual studio 2012\Projects\İKİ BOYUTLU DİZİLER ÖRNEK\İKİ BOYUTLU DİZİLER ÖRNEK\obj\Debug\İKİ_BOYUTLU_DİZİLER_ÖRNEK.Form1.resources
+c:\users\ogrenci\documents\visual studio 2012\Projects\İKİ BOYUTLU DİZİLER ÖRNEK\İKİ BOYUTLU DİZİLER ÖRNEK\obj\Debug\İKİ_BOYUTLU_DİZİLER_ÖRNEK.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2012\Projects\İKİ BOYUTLU DİZİLER ÖRNEK\İKİ BOYUTLU DİZİLER ÖRNEK\obj\Debug\İKİ BOYUTLU DİZİLER ÖRNEK.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2012\Projects\İKİ BOYUTLU DİZİLER ÖRNEK\İKİ BOYUTLU DİZİLER ÖRNEK\obj\Debug\İKİ BOYUTLU DİZİLER ÖRNEK.exe
+c:\users\ogrenci\documents\visual studio 2012\Projects\İKİ BOYUTLU DİZİLER ÖRNEK\İKİ BOYUTLU DİZİLER ÖRNEK\obj\Debug\İKİ BOYUTLU DİZİLER ÖRNEK.pdb

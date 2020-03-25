@@ -1,0 +1,9 @@
+C:\Users\ogrenci\Desktop\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\bin\Debug\SAYI TAHMİN OYUNU.exe.config
+C:\Users\ogrenci\Desktop\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\bin\Debug\SAYI TAHMİN OYUNU.exe
+C:\Users\ogrenci\Desktop\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\bin\Debug\SAYI TAHMİN OYUNU.pdb
+C:\Users\ogrenci\Desktop\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\obj\Debug\SAYI TAHMİN OYUNU.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\obj\Debug\SAYI_TAHMİN_OYUNU.Form1.resources
+C:\Users\ogrenci\Desktop\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\obj\Debug\SAYI_TAHMİN_OYUNU.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\obj\Debug\SAYI TAHMİN OYUNU.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\obj\Debug\SAYI TAHMİN OYUNU.exe
+C:\Users\ogrenci\Desktop\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\obj\Debug\SAYI TAHMİN OYUNU.pdb

@@ -1,0 +1,23 @@
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\textbox_handled\textbox_handled\bin\Debug\textbox_handled.exe.config
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\textbox_handled\textbox_handled\bin\Debug\textbox_handled.exe
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\textbox_handled\textbox_handled\bin\Debug\textbox_handled.pdb
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\textbox_handled\textbox_handled\obj\Debug\textbox_handled.Form1.resources
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\textbox_handled\textbox_handled\obj\Debug\textbox_handled.Properties.Resources.resources
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\textbox_handled\textbox_handled\obj\Debug\textbox_handled.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\textbox_handled\textbox_handled\obj\Debug\textbox_handled.exe
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\textbox_handled\textbox_handled\obj\Debug\textbox_handled.pdb
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\TEXTBOX SINIRLAMA\textbox_handled\bin\Debug\textbox_handled.exe.config
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\TEXTBOX SINIRLAMA\textbox_handled\obj\Debug\textbox_handled.exe
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\TEXTBOX SINIRLAMA\textbox_handled\obj\Debug\textbox_handled.pdb
+E:\11.SINIF\NESNE TABANLI PROGRAMLAMA\TEXTBOX SINIRLAMA\textbox_handled\bin\Debug\textbox_handled.exe.config
+E:\11.SINIF\NESNE TABANLI PROGRAMLAMA\TEXTBOX SINIRLAMA\textbox_handled\obj\Debug\textbox_handled.exe
+E:\11.SINIF\NESNE TABANLI PROGRAMLAMA\TEXTBOX SINIRLAMA\textbox_handled\obj\Debug\textbox_handled.pdb
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\TEXTBOX SINIRLAMA\textbox_handled\bin\Debug\textbox_handled.exe.config
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\TEXTBOX SINIRLAMA\textbox_handled\obj\Debug\textbox_handled.exe
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\TEXTBOX SINIRLAMA\textbox_handled\obj\Debug\textbox_handled.pdb
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\TEXTBOX SINIRLAMA\textbox_handled\bin\Debug\textbox_handled.exe
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\TEXTBOX SINIRLAMA\textbox_handled\bin\Debug\textbox_handled.pdb
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\TEXTBOX SINIRLAMA\textbox_handled\obj\Debug\textbox_handled.csprojResolveAssemblyReference.cache
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\TEXTBOX SINIRLAMA\textbox_handled\obj\Debug\textbox_handled.Form1.resources
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\TEXTBOX SINIRLAMA\textbox_handled\obj\Debug\textbox_handled.Properties.Resources.resources
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\TEXTBOX SINIRLAMA\textbox_handled\obj\Debug\textbox_handled.csproj.GenerateResource.Cache

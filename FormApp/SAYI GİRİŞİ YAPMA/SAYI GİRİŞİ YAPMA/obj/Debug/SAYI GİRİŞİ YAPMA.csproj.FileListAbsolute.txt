@@ -1,0 +1,9 @@
+C:\Users\ogrenci\Desktop\SAYI GİRİŞİ YAPMA\SAYI GİRİŞİ YAPMA\bin\Debug\SAYI GİRİŞİ YAPMA.exe.config
+C:\Users\ogrenci\Desktop\SAYI GİRİŞİ YAPMA\SAYI GİRİŞİ YAPMA\bin\Debug\SAYI GİRİŞİ YAPMA.exe
+C:\Users\ogrenci\Desktop\SAYI GİRİŞİ YAPMA\SAYI GİRİŞİ YAPMA\bin\Debug\SAYI GİRİŞİ YAPMA.pdb
+C:\Users\ogrenci\Desktop\SAYI GİRİŞİ YAPMA\SAYI GİRİŞİ YAPMA\obj\Debug\SAYI GİRİŞİ YAPMA.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\SAYI GİRİŞİ YAPMA\SAYI GİRİŞİ YAPMA\obj\Debug\SAYI_GİRİŞİ_YAPMA.Form1.resources
+C:\Users\ogrenci\Desktop\SAYI GİRİŞİ YAPMA\SAYI GİRİŞİ YAPMA\obj\Debug\SAYI_GİRİŞİ_YAPMA.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\SAYI GİRİŞİ YAPMA\SAYI GİRİŞİ YAPMA\obj\Debug\SAYI GİRİŞİ YAPMA.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\SAYI GİRİŞİ YAPMA\SAYI GİRİŞİ YAPMA\obj\Debug\SAYI GİRİŞİ YAPMA.exe
+C:\Users\ogrenci\Desktop\SAYI GİRİŞİ YAPMA\SAYI GİRİŞİ YAPMA\obj\Debug\SAYI GİRİŞİ YAPMA.pdb

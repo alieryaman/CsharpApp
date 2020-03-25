@@ -1,0 +1,9 @@
+C:\Users\ogrenci\Desktop\DİZİLERLE TEK ÇİFT SAYI\DİZİLERLE TEK ÇİFT SAYI\bin\Debug\DİZİLERLE TEK ÇİFT SAYI.exe.config
+C:\Users\ogrenci\Desktop\DİZİLERLE TEK ÇİFT SAYI\DİZİLERLE TEK ÇİFT SAYI\obj\Debug\DİZİLERLE TEK ÇİFT SAYI.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\DİZİLERLE TEK ÇİFT SAYI\DİZİLERLE TEK ÇİFT SAYI\obj\Debug\DİZİLERLE_TEK_ÇİFT_SAYI.Form1.resources
+C:\Users\ogrenci\Desktop\DİZİLERLE TEK ÇİFT SAYI\DİZİLERLE TEK ÇİFT SAYI\obj\Debug\DİZİLERLE_TEK_ÇİFT_SAYI.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\DİZİLERLE TEK ÇİFT SAYI\DİZİLERLE TEK ÇİFT SAYI\obj\Debug\DİZİLERLE TEK ÇİFT SAYI.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\DİZİLERLE TEK ÇİFT SAYI\DİZİLERLE TEK ÇİFT SAYI\bin\Debug\DİZİLERLE TEK ÇİFT SAYI.exe
+C:\Users\ogrenci\Desktop\DİZİLERLE TEK ÇİFT SAYI\DİZİLERLE TEK ÇİFT SAYI\bin\Debug\DİZİLERLE TEK ÇİFT SAYI.pdb
+C:\Users\ogrenci\Desktop\DİZİLERLE TEK ÇİFT SAYI\DİZİLERLE TEK ÇİFT SAYI\obj\Debug\DİZİLERLE TEK ÇİFT SAYI.exe
+C:\Users\ogrenci\Desktop\DİZİLERLE TEK ÇİFT SAYI\DİZİLERLE TEK ÇİFT SAYI\obj\Debug\DİZİLERLE TEK ÇİFT SAYI.pdb

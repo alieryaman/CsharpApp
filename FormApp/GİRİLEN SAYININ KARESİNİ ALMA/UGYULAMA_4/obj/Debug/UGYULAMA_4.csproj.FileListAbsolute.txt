@@ -1,0 +1,8 @@
+C:\Users\Veysel\Desktop\UGYULAMA_4\UGYULAMA_4\bin\Debug\UGYULAMA_4.exe.config
+C:\Users\Veysel\Desktop\UGYULAMA_4\UGYULAMA_4\bin\Debug\UGYULAMA_4.exe
+C:\Users\Veysel\Desktop\UGYULAMA_4\UGYULAMA_4\bin\Debug\UGYULAMA_4.pdb
+C:\Users\Veysel\Desktop\UGYULAMA_4\UGYULAMA_4\obj\Debug\UGYULAMA_4.Form1.resources
+C:\Users\Veysel\Desktop\UGYULAMA_4\UGYULAMA_4\obj\Debug\UGYULAMA_4.Properties.Resources.resources
+C:\Users\Veysel\Desktop\UGYULAMA_4\UGYULAMA_4\obj\Debug\UGYULAMA_4.csproj.GenerateResource.Cache
+C:\Users\Veysel\Desktop\UGYULAMA_4\UGYULAMA_4\obj\Debug\UGYULAMA_4.exe
+C:\Users\Veysel\Desktop\UGYULAMA_4\UGYULAMA_4\obj\Debug\UGYULAMA_4.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VERİTABANLI KULLANICI GİRİŞİ", "VERİTABANLI KULLANICI GİRİŞİ\VERİTABANLI KULLANICI GİRİŞİ.csproj", "{276250C4-D365-4017-9EB1-09A7E2BD96B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{276250C4-D365-4017-9EB1-09A7E2BD96B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276250C4-D365-4017-9EB1-09A7E2BD96B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276250C4-D365-4017-9EB1-09A7E2BD96B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276250C4-D365-4017-9EB1-09A7E2BD96B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

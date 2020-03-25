@@ -1,0 +1,37 @@
+C:\Users\ogrenci\Desktop\Hospital_Program\Hospital_Program\bin\Debug\Hospital_Program.exe.config
+C:\Users\ogrenci\Desktop\Hospital_Program\Hospital_Program\bin\Debug\Hospital_Program.exe
+C:\Users\ogrenci\Desktop\Hospital_Program\Hospital_Program\bin\Debug\Hospital_Program.pdb
+C:\Users\ogrenci\Desktop\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.Add_Date.resources
+C:\Users\ogrenci\Desktop\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.Main.resources
+C:\Users\ogrenci\Desktop\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.exe
+C:\Users\ogrenci\Desktop\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.pdb
+D:\Muhammed Esad KATMER Yedekler\Ders Notları\13.02.2014\Hospital_Program\Hospital_Program\bin\Debug\Hospital_Program.exe.config
+D:\Muhammed Esad KATMER Yedekler\Ders Notları\13.02.2014\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.exe
+D:\Muhammed Esad KATMER Yedekler\Ders Notları\13.02.2014\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.csprojResolveAssemblyReference.cache
+D:\Muhammed Esad KATMER Yedekler\Ders Notları\13.02.2014\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.Add_Date.resources
+D:\Muhammed Esad KATMER Yedekler\Ders Notları\13.02.2014\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.Properties.Resources.resources
+D:\Muhammed Esad KATMER Yedekler\Ders Notları\13.02.2014\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.csproj.GenerateResource.Cache
+D:\Muhammed Esad KATMER Yedekler\Ders Notları\13.02.2014\Hospital_Program\Hospital_Program\bin\Debug\Hospital_Program.exe
+D:\Muhammed Esad KATMER Yedekler\Ders Notları\13.02.2014\Hospital_Program\Hospital_Program\bin\Debug\Hospital_Program.pdb
+D:\Muhammed Esad KATMER Yedekler\Ders Notları\13.02.2014\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.pdb
+C:\Users\YY34\Documents\Hospital_Program\Hospital_Program\Hospital_Program\bin\Debug\Hospital_Program.exe.config
+C:\Users\YY34\Documents\Hospital_Program\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.exe
+C:\Users\YY34\Documents\Hospital_Program\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.pdb
+C:\Users\YY34\Documents\Hospital_Program\Hospital_Program\Hospital_Program\bin\Debug\Hospital_Program.exe
+C:\Users\YY34\Documents\Hospital_Program\Hospital_Program\Hospital_Program\bin\Debug\Hospital_Program.pdb
+C:\Users\YY34\Documents\Hospital_Program\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.csprojResolveAssemblyReference.cache
+C:\Users\YY34\Documents\Hospital_Program\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.Add_Date.resources
+C:\Users\YY34\Documents\Hospital_Program\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.Properties.Resources.resources
+C:\Users\YY34\Documents\Hospital_Program\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\HASTA RANDEVU\Hospital_Program\Hospital_Program\bin\Debug\Hospital_Program.exe.config
+C:\Users\ogrenci\Desktop\HASTA RANDEVU\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.exe
+C:\Users\ogrenci\Desktop\HASTA RANDEVU\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.pdb
+D:\11.SINIF\NESNE TABANLI PROGRAMLAMA\HASTA RANDEVU\Hospital_Program\Hospital_Program\bin\Debug\Hospital_Program.exe.config
+D:\11.SINIF\NESNE TABANLI PROGRAMLAMA\HASTA RANDEVU\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.exe
+D:\11.SINIF\NESNE TABANLI PROGRAMLAMA\HASTA RANDEVU\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.pdb
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\HASTA RANDEVU\Hospital_Program\Hospital_Program\bin\Debug\Hospital_Program.exe.config
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\HASTA RANDEVU\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.exe
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\HASTA RANDEVU\Hospital_Program\Hospital_Program\obj\Debug\Hospital_Program.pdb

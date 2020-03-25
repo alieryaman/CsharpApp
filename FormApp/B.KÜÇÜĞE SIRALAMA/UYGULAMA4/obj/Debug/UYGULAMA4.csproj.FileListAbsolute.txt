@@ -1,0 +1,9 @@
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA4\UYGULAMA4\bin\Debug\UYGULAMA4.exe.config
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA4\UYGULAMA4\bin\Debug\UYGULAMA4.exe
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA4\UYGULAMA4\bin\Debug\UYGULAMA4.pdb
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA4\UYGULAMA4\obj\Debug\UYGULAMA4.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA4\UYGULAMA4\obj\Debug\UYGULAMA4.Form1.resources
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA4\UYGULAMA4\obj\Debug\UYGULAMA4.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA4\UYGULAMA4\obj\Debug\UYGULAMA4.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA4\UYGULAMA4\obj\Debug\UYGULAMA4.exe
+C:\Users\ogrenci\Desktop\250_VEYSEL KARTALMIŞ\UYGULAMA4\UYGULAMA4\obj\Debug\UYGULAMA4.pdb

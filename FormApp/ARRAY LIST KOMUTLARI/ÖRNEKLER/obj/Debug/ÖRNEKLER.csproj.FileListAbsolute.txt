@@ -1,0 +1,15 @@
+C:\Users\ogrenci\Desktop\ÖRNEKLER\ÖRNEKLER\bin\Debug\ÖRNEKLER.exe.config
+C:\Users\ogrenci\Desktop\ÖRNEKLER\ÖRNEKLER\bin\Debug\ÖRNEKLER.exe
+C:\Users\ogrenci\Desktop\ÖRNEKLER\ÖRNEKLER\bin\Debug\ÖRNEKLER.pdb
+C:\Users\ogrenci\Desktop\ÖRNEKLER\ÖRNEKLER\obj\Debug\ÖRNEKLER.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ÖRNEKLER\ÖRNEKLER\obj\Debug\ÖRNEKLER.Form1.resources
+C:\Users\ogrenci\Desktop\ÖRNEKLER\ÖRNEKLER\obj\Debug\ÖRNEKLER.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ÖRNEKLER\ÖRNEKLER\obj\Debug\ÖRNEKLER.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\ÖRNEKLER\ÖRNEKLER\obj\Debug\ÖRNEKLER.exe
+C:\Users\ogrenci\Desktop\ÖRNEKLER\ÖRNEKLER\obj\Debug\ÖRNEKLER.pdb
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\ARRAY LIST KOMUTLARI\ÖRNEKLER\bin\Debug\ÖRNEKLER.exe.config
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\ARRAY LIST KOMUTLARI\ÖRNEKLER\obj\Debug\ÖRNEKLER.exe
+F:\11.SINIF\NESNE TABANLI PROGRAMLAMA\ARRAY LIST KOMUTLARI\ÖRNEKLER\obj\Debug\ÖRNEKLER.pdb
+E:\11.SINIF\NESNE TABANLI PROGRAMLAMA\ARRAY LIST KOMUTLARI\ÖRNEKLER\bin\Debug\ÖRNEKLER.exe.config
+E:\11.SINIF\NESNE TABANLI PROGRAMLAMA\ARRAY LIST KOMUTLARI\ÖRNEKLER\obj\Debug\ÖRNEKLER.exe
+E:\11.SINIF\NESNE TABANLI PROGRAMLAMA\ARRAY LIST KOMUTLARI\ÖRNEKLER\obj\Debug\ÖRNEKLER.pdb

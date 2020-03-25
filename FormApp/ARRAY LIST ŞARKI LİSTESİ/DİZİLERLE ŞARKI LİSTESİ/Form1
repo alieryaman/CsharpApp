@@ -1,0 +1,75 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Collections;
+using Microsoft.VisualBasic;
+
+namespace DİZİLERLE_ŞARKI_LİSTESİ
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        ArrayList sarkilar = new ArrayList();
+
+        private void btn_ekle_Click(object sender, EventArgs e)
+        {
+            sarkilar.Add(txt_sarki.Text.ToUpper());
+            lst_muzikler.Items.Add(txt_sarki.Text.ToUpper());
+            txt_sarki.Clear(); txt_sarki.Focus();
+        }
+
+        private void btn_sirala_Click(object sender, EventArgs e)
+        {
+            lst_muzikler.Items.Clear();
+            sarkilar.Sort();
+            foreach (string ara in sarkilar)
+            {
+                lst_muzikler.Items.Add(ara);
+            }
+        }
+
+        private void btn_tcevir_Click(object sender, EventArgs e)
+        {
+            sarkilar.Reverse();
+            lst_muzikler.Items.Clear();
+            foreach (string ara in sarkilar)
+            {
+                lst_muzikler.Items.Add(ara);
+            }
+        }
+
+        private void btn_sarkisil_Click(object sender, EventArgs e)
+        {
+           lst_muzikler.Items.Remove(lst_muzikler.SelectedItem);
+           sarkilar.Remove(lst_muzikler.SelectedItem);
+        }
+
+        private void btn_dsil_Click(object sender, EventArgs e)
+        {
+            lst_muzikler.Items.Clear();
+            sarkilar.Clear();
+        }
+
+        private void btn_kapasite_Click(object sender, EventArgs e)
+        {
+            int kapasite = sarkilar.Capacity;
+            MessageBox.Show("DİZİNİZİN KAPASİTESİ =" + kapasite);
+        }
+
+        private void btn_sarkıara_Click(object sender, EventArgs e)
+        {
+            string aranan =Interaction.InputBox("ARADIĞIN MÜZİK ADINI GİR :","");
+            MessageBox.Show("ARADIĞINIZ FİLMİN DİZİDEKİ INDEX NOSU = " + sarkilar.IndexOf(aranan.ToUpper()));
+        }
+    }
+}

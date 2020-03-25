@@ -1,0 +1,9 @@
+C:\Users\ogrenci\Desktop\ÖRNEKDERS\ÖRNEKDERS\bin\Debug\ÖRNEKDERS.exe.config
+C:\Users\ogrenci\Desktop\ÖRNEKDERS\ÖRNEKDERS\bin\Debug\ÖRNEKDERS.exe
+C:\Users\ogrenci\Desktop\ÖRNEKDERS\ÖRNEKDERS\bin\Debug\ÖRNEKDERS.pdb
+C:\Users\ogrenci\Desktop\ÖRNEKDERS\ÖRNEKDERS\obj\Debug\ÖRNEKDERS.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ÖRNEKDERS\ÖRNEKDERS\obj\Debug\ÖRNEKDERS.Form1.resources
+C:\Users\ogrenci\Desktop\ÖRNEKDERS\ÖRNEKDERS\obj\Debug\ÖRNEKDERS.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ÖRNEKDERS\ÖRNEKDERS\obj\Debug\ÖRNEKDERS.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\ÖRNEKDERS\ÖRNEKDERS\obj\Debug\ÖRNEKDERS.exe
+C:\Users\ogrenci\Desktop\ÖRNEKDERS\ÖRNEKDERS\obj\Debug\ÖRNEKDERS.pdb

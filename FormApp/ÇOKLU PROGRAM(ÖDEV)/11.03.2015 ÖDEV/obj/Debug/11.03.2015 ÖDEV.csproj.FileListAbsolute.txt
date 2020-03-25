@@ -1,0 +1,27 @@
+C:\Users\Veysel\Desktop\11.03.2015 ÖDEV\11.03.2015 ÖDEV\bin\Debug\11.03.2015 ÖDEV.exe.config
+C:\Users\Veysel\Desktop\11.03.2015 ÖDEV\11.03.2015 ÖDEV\bin\Debug\11.03.2015 ÖDEV.exe
+C:\Users\Veysel\Desktop\11.03.2015 ÖDEV\11.03.2015 ÖDEV\bin\Debug\11.03.2015 ÖDEV.pdb
+C:\Users\Veysel\Desktop\11.03.2015 ÖDEV\11.03.2015 ÖDEV\obj\Debug\11.03.2015 ÖDEV.csprojResolveAssemblyReference.cache
+C:\Users\Veysel\Desktop\11.03.2015 ÖDEV\11.03.2015 ÖDEV\obj\Debug\_11._03._2015_ÖDEV.form_giris.resources
+C:\Users\Veysel\Desktop\11.03.2015 ÖDEV\11.03.2015 ÖDEV\obj\Debug\_11._03._2015_ÖDEV.Properties.Resources.resources
+C:\Users\Veysel\Desktop\11.03.2015 ÖDEV\11.03.2015 ÖDEV\obj\Debug\11.03.2015 ÖDEV.csproj.GenerateResource.Cache
+C:\Users\Veysel\Desktop\11.03.2015 ÖDEV\11.03.2015 ÖDEV\obj\Debug\11.03.2015 ÖDEV.exe
+C:\Users\Veysel\Desktop\11.03.2015 ÖDEV\11.03.2015 ÖDEV\obj\Debug\11.03.2015 ÖDEV.pdb
+C:\Users\Veysel\Desktop\11.03.2015 ÖDEV\11.03.2015 ÖDEV\obj\Debug\_11._03._2015_ÖDEV.seçenekler.resources
+C:\Users\Veysel\Desktop\11.03.2015 ÖDEV\11.03.2015 ÖDEV\obj\Debug\_11._03._2015_ÖDEV.hesapmakinesi.resources
+C:\Users\Veysel\Desktop\11.03.2015 ÖDEV\11.03.2015 ÖDEV\obj\Debug\_11._03._2015_ÖDEV.nothesaplama.resources
+C:\Users\Veysel\Desktop\11.03.2015 ÖDEV\11.03.2015 ÖDEV\obj\Debug\_11._03._2015_ÖDEV.csharp.resources
+C:\Users\Veysel\Desktop\11.03.2015 ÖDEV\11.03.2015 ÖDEV\obj\Debug\_11._03._2015_ÖDEV.harfdonusumu.resources
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\ÇOKLU PROGRAM(ÖDEV)\11.03.2015 ÖDEV\bin\Debug\11.03.2015 ÖDEV.exe.config
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\ÇOKLU PROGRAM(ÖDEV)\11.03.2015 ÖDEV\obj\Debug\11.03.2015 ÖDEV.exe
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\ÇOKLU PROGRAM(ÖDEV)\11.03.2015 ÖDEV\obj\Debug\11.03.2015 ÖDEV.pdb
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\ÇOKLU PROGRAM(ÖDEV)\11.03.2015 ÖDEV\bin\Debug\11.03.2015 ÖDEV.exe
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\ÇOKLU PROGRAM(ÖDEV)\11.03.2015 ÖDEV\obj\Debug\11.03.2015 ÖDEV.csprojResolveAssemblyReference.cache
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\ÇOKLU PROGRAM(ÖDEV)\11.03.2015 ÖDEV\obj\Debug\_11._03._2015_ÖDEV.csharp.resources
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\ÇOKLU PROGRAM(ÖDEV)\11.03.2015 ÖDEV\obj\Debug\_11._03._2015_ÖDEV.form_giris.resources
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\ÇOKLU PROGRAM(ÖDEV)\11.03.2015 ÖDEV\obj\Debug\_11._03._2015_ÖDEV.harfdonusumu.resources
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\ÇOKLU PROGRAM(ÖDEV)\11.03.2015 ÖDEV\obj\Debug\_11._03._2015_ÖDEV.hesapmakinesi.resources
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\ÇOKLU PROGRAM(ÖDEV)\11.03.2015 ÖDEV\obj\Debug\_11._03._2015_ÖDEV.nothesaplama.resources
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\ÇOKLU PROGRAM(ÖDEV)\11.03.2015 ÖDEV\obj\Debug\_11._03._2015_ÖDEV.Properties.Resources.resources
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\ÇOKLU PROGRAM(ÖDEV)\11.03.2015 ÖDEV\obj\Debug\_11._03._2015_ÖDEV.seçenekler.resources
+C:\Users\Veysel\Desktop\NESNE TABANLI PROGRAMLAMA\ÇOKLU PROGRAM(ÖDEV)\11.03.2015 ÖDEV\obj\Debug\11.03.2015 ÖDEV.csproj.GenerateResource.Cache
